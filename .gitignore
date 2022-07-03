@@ -1,0 +1,26 @@
+Win32
+x64
+*.user
+.vs
+/asio
+/boost*
+/libavcodec
+/libavformat
+/libavfilter
+/libavutil
+/libav
+/SDL2*
+/lib*
+/*test
+/bin*
+/bmi*
+/*.props
+/*.c*
+/*.gif
+/include
+/Demo-App/main - Kopie.cpp
+/Demo-App/P2502.hpp
+/Demo-App/net.ixx
+/Demo-App/net.cpp
+/Demo-App/P2168.hpp
+/Demo-App/Step*.cpp
